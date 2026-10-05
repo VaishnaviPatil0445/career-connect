@@ -46,3 +46,11 @@ app.*.map.json
 
 # Widget Preview related
 .widget_preview/
+
+# Untracked desktop platform boilerplate and devtools metadata
+.metadata
+devtools_options.yaml
+linux/
+macos/
+windows/
+
