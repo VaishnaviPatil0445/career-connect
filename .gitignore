@@ -54,3 +54,8 @@ linux/
 macos/
 windows/
 
+# Personal study & interview notes (kept locally only)
+FLUTTER_EXPLANATION.md
+INTERVIEW_PREPARATION.md
+RESUME_CONTENT.md
+
